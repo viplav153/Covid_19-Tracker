@@ -26,6 +26,9 @@ contextlib2==0.5.4
 cryptography==1.7.1
 cycler==0.10.0
 Cython==0.25.2
+psycopg2==2.7.3.2
+whitenoise==3.3.1
+
 cytoolz==0.8.2
 dask==0.13.0
 datashape==0.5.4
@@ -146,3 +149,4 @@ XlsxWriter==0.9.6
 xlwings==0.10.2
 xlwt==1.2.0
 gunicorn==19.7.1
+Django==1.11.7
